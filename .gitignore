@@ -1,0 +1,9 @@
+ec2data622hw3.pem
+Dockerfile
+.idea/
+titanic/__pycache__/
+titanic/data/random_forest_submission.csv
+titanic/model/random_forest_model.pkl
+titanic/report/classification_report.csv
+titanic/report/classification_report.png
+

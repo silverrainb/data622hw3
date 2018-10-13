@@ -1,3 +1,0 @@
-class,f1_score,precision,recall,support
-   Perished,0.85,0.82,0.9,115.0
-   Survived,0.7,0.77,0.64,64.0
