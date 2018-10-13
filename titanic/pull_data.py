@@ -7,7 +7,7 @@ import os
 
 def join_path(folder, file):
     dir_path = os.getcwd()
-    path = dir_path + '/' + folder + '/' + file # for local
+    path = dir_path + '/titanic/' + folder + '/' + file # for local
     #path = dir_path + '/' + 'titanic/' + folder + '/' + file
     return path
 
