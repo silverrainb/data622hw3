@@ -1,4 +1,4 @@
-matplotlib
-numpy
-pandas
-sklearn
+matplotlib == 2.1.2
+numpy == 1.14.3
+pandas == 0.23.0
+sklearn == 0.0
