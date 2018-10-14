@@ -49,7 +49,7 @@ def main():
     prediction = prediction_using_pkl(load_from_pkl, X_test)
     export_pred_csv(prediction)
 
-    print(star, "Finish data622 HW2.", star)
+    print(star, "Finish data622 HW3.", star)
 
 
 if __name__ == "__main__":
